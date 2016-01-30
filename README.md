@@ -1,4 +1,4 @@
-# Pebble-4-Digit-Num-Keyboard
+# Pebble.js 4 Digit Numeric Keyboard
 This a demo app for my Pebble.js numeric keyboard. I've modeled it as state machine.
 
 ## State machine diagram
