@@ -3,9 +3,9 @@ This a demo app for my Pebble.js numeric keyboard. I've modeled it as state mach
 
 ## State machine diagram
 
-<div style="display:table-cell; vertical-align:middle; text-align:center">
+<p align="center">
   <img src="http://i.imgur.com/gsMCYH5.png" alt="State machine">
-</div>
+</p>
 
 ## Screenshots
 
