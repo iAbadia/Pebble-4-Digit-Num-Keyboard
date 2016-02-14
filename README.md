@@ -13,4 +13,4 @@ This a demo app for my Pebble.js numeric keyboard. I've modeled it as state mach
 
 ## License
 
-This proyect has been pusblished under the [MIT License](https://github.com/iAbadia/Pebble-4-Digit-Num-Keyboard/blob/master/LICENSE)
+This project has been published under the [MIT License](https://github.com/iAbadia/Pebble-4-Digit-Num-Keyboard/blob/master/LICENSE)
