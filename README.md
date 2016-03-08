@@ -1,4 +1,4 @@
-# Pebble.js 4 Digit Numeric Keyboard
+# Pebble.js 4 Digit Numeric Keyboard [![Build Status](https://travis-ci.org/iAbadia/Pebble-4-Digit-Num-Keyboard.svg?branch=master)](https://travis-ci.org/iAbadia/Pebble-4-Digit-Num-Keyboard)
 This a demo app for my Pebble.js numeric keyboard. I've modeled it as state machine.
 
 ## State machine diagram
